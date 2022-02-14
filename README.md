@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-https://img.shields.io/badge/<LABEL>-<SpringJPA>-<green>
+<img url="https://img.shields.io/badge/<LABEL>-<SpringJPA>-<green>">
 
 <!--
 **hweyoung/hweyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
