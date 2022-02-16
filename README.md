@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/SpringJPA-<green>">
 
 ## Contact me
-<a src ="https://okbear3.tistory.com/">bear's Blog</a>
+<a src ="https://okbear3.tistory.com">bear's Blog</a>
 <!--
 **hweyoung/hweyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
