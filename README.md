@@ -4,6 +4,7 @@
 ### Study Note
 <a href="https://okbear3.tistory.com/">bear's blog</a>
 
+
 ### Languages & Frameworks
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
+
 
 
 ![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif)
