@@ -18,7 +18,7 @@
 </div>
 
 
-![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif)
 
 
 ### How to reach me
