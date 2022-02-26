@@ -2,8 +2,7 @@
 <br>
 
 ### Study Note
-[bear's blog]("https://okbear3.tistory.com/")
-
+<a href="https://okbear3.tistory.com/">bear's blog</a>
 
 ### Languages & Frameworks
 <div>
