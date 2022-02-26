@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
+
+![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.svg)
+
+
 ### How to reach me
 email : gnldud0516@gmail.com
 instagram : okbear3
