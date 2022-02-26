@@ -1,10 +1,11 @@
 ## Hi I'm hweyoung 
+<br>
 
-## Study Note
+### Study Note
 [bear's blog]("https://okbear3.tistory.com/")
 
 
-## Languages & Frameworks
+### Languages & Frameworks
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -15,3 +16,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
+
+### How to reach me
+email : gnldud0516@gmail.com
+instagram : okbear3
