@@ -17,8 +17,9 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-[![Hweyoung's github stats](https://github-readme-stats.vercel.app/api?username=hweyoung)](https://github.com/anuraghazra/github-readme-stats)
+[![hweyoung's github stats](https://github-readme-stats.vercel.app/api?username=hweyoung)](https://github.com/anuraghazra/github-readme-stats)
 
+![hweyoung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hweyoung&layout=compact&theme=dracula)
 
 
 ![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif)
