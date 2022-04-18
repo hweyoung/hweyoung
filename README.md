@@ -25,7 +25,7 @@
 
 ### algorithm
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okbear3)](https://solved.ac/okbear3)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okbear3)](https://solved.ac/okbear3)
 
 
 ![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif)
