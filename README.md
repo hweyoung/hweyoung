@@ -27,26 +27,16 @@
 🐻 Portpolio
 <a href="https://www.notion.so/e9eb50c4ab0d4095b424907a8aa707f6">bear's portpolio</a>
 
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=hweyoung&show_icons=true&hide_border=true)](https://github.com/hweyoung)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hweyoung&langs_count=10&layout=compact&theme=dracula)](https://github.com/hweyoung/hweyoung)
+
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=okbear3)](https://solved.ac/okbear3) -->
+
 <br>
-<!-- 
-### Acti
-
-<figure class="half">
-  <img src="https://github-readme-stats.vercel.app/api?username=hweyoung)](https://github.com/anuraghazra/github-readme-stats">
-![hweyoung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hweyoung&layout=compact&theme=dracula)
-
-</figure>
-
-[![hweyoung's github stats](https://github-readme-stats.vercel.app/api?username=hweyoung)](https://github.com/anuraghazra/github-readme-stats)
-
-![hweyoung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hweyoung&layout=compact&theme=dracula)
 
 
-### algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okbear3)](https://solved.ac/okbear3)
-
- -->
 <!-- ![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif) -->
 
 
