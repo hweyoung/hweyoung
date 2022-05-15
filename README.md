@@ -3,7 +3,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhweyoung&count_bg=%23D785EB&title_bg=%23901892&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-<br>
 
 ### Languages & Frameworks
 <div>
@@ -14,8 +13,11 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
+<br>
 <br>
 
 
@@ -48,6 +50,7 @@
 <!-- ![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif) -->
 
 
-### How to reach me
-email : gnldud0516@gmail.com
-instagram : okbear3
+### 🐻 How to reach me<br>
+email : gnldud0516@gmail.com <br>
+instagram : <a href="https://www.instagram.com/okbear3/">okbear3</a>
+
