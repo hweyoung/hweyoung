@@ -28,7 +28,7 @@
 <a href="https://okbear3.tistory.com/">bear's blog</a>
 
 🐻 Portpolio
-<a href="https://www.notion.so/e9eb50c4ab0d4095b424907a8aa707f6">bear's portpolio</a>
+<a href="https://www.notion.so/okbear-52037023586d44bf8617c20b6d5b9cbe">bear's portpolio</a>
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hweyoung&show_icons=true&hide_border=true)](https://github.com/hweyoung)
