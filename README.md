@@ -31,9 +31,9 @@
 <a href="https://www.notion.so/okbear-52037023586d44bf8617c20b6d5b9cbe">bear's portpolio</a>
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=hweyoung&show_icons=true&hide_border=true)](https://github.com/hweyoung)
+<!--[![github stats](https://github-readme-stats.vercel.app/api?username=hweyoung&show_icons=true&hide_border=true)](https://github.com/hweyoung)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hweyoung&langs_count=10&layout=compact&theme=dracula)](https://github.com/hweyoung/hweyoung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hweyoung&langs_count=10&layout=compact&theme=dracula)](https://github.com/hweyoung/hweyoung)-->
 
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=okbear3)](https://solved.ac/okbear3) -->
 
