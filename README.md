@@ -40,7 +40,7 @@
 <br>
 
 
-<!-- ![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif) -->
+ ![snake gif](https://github.com/hweyoung/hweyoung/blob/output/github-contribution-grid-snake.gif) 
 
 
 ### 🐻 How to reach me<br>
