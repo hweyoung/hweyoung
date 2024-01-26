@@ -7,7 +7,7 @@
 
 
 🐻 Study Note 
-<a href="https://velog.io/@okbear3">bear's blog</a>
+<a href="https://okbear3.tistory.com/">bear's blog</a>
 
 🐻 Portpolio
 <a href="https://www.notion.so/okbear-52037023586d44bf8617c20b6d5b9cbe">bear's portpolio</a>
